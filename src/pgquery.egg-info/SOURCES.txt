@@ -1,0 +1,13 @@
+README.rst
+setup.py
+src/pgquery/__init__.py
+src/pgquery/cli.py
+src/pgquery/pg_query.py
+src/pgquery/pgdump.py
+src/pgquery/storage.py
+src/pgquery.egg-info/PKG-INFO
+src/pgquery.egg-info/SOURCES.txt
+src/pgquery.egg-info/dependency_links.txt
+src/pgquery.egg-info/entry_points.txt
+src/pgquery.egg-info/requires.txt
+src/pgquery.egg-info/top_level.txt

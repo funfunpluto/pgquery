@@ -1,0 +1,3 @@
+[console_scripts]
+pgquery = pgquery.cli:main
+
